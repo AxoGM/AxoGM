@@ -1,4 +1,4 @@
-<img src="banner.png" align="center" min-height="30vh" width="100%">
+<img src="banner.png" align="center" min-height="30vh" width="50%">
 <h1 align="center">Hi 👋, I'm AxoGM</h1>
 <h3 align="center">I'm a normal person who keep doing my own work</h3>
 
