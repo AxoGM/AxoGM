@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/amongus11935344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amongus11935344" height="30" width="40" /></a>
 <a href="https://instagram.com/creategm10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="creategm10" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/axogm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="axogm" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@axogm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="axogm" height="30" width="40" /></a>
 <a href="https://discord.gg/UG72Xk4MqH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="UG72Xk4MqH" height="30" width="40" /></a>
 </p>
 
