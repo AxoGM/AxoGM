@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C/C++ and Java**
 
-- 📄 Know about my experiences [http://axogmweb.unaux.com/](http://axogmweb.unaux.com/)
+- 📄 Know about my experiences [http://axogmweb.unaux.com/](http://axogm.unaux.com/)
 
 - ⚡ Fun fact **I dont know who are you ._.**
 
